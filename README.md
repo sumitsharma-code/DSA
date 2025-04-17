@@ -1,7 +1,19 @@
-# 🧠 Sumit's Learning in Public Journey
+# 🧠 Ravneet's Learning in Public Journey
 
 Welcome to my daily log of growth, bugs, breakthroughs, and brain-boosting chaos.  
 I'm learning in public to stay accountable, build confidence, and maybe inspire a few along the way. 🚀
+
+---
+
+## ✅ Day 2 – Logical Thinking & Pattern Building
+
+**Topics Covered:**
+- 🔍 Pattern-based problem solving  
+- 🧠 Developing logical flow for structured code  
+- 📌 Learning how to identify, repeat, and reuse logic  
+
+💬 *Today wasn’t about writing more code — it was about writing better code.*  
+🧱 Building patterns, training the brain to solve smart, not hard.
 
 ---
 
@@ -20,18 +32,6 @@ I'm learning in public to stay accountable, build confidence, and maybe inspire 
 
 🧩 **Focus:** Built the groundwork for coding logic  
 💡 **Insight:** Understanding syntax is cool, but thinking in code is cooler
-
----
-
-## ✅ Day 2 – Logical Thinking & Pattern Building
-
-**Topics Covered:**
-- 🔍 Pattern-based problem solving  
-- 🧠 Developing logical flow for structured code  
-- 📌 Learning how to identify, repeat, and reuse logic  
-
-💬 *Today wasn’t about writing more code — it was about writing better code.*  
-🧱 Building patterns, training the brain to solve smart, not hard.
 
 ---
 
