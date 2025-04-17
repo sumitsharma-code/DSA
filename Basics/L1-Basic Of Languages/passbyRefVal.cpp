@@ -20,4 +20,4 @@ int main(){
     doSomething(n);
     
     cout << n;
-}
+} 
