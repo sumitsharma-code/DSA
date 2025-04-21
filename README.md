@@ -5,6 +5,20 @@ I'm learning in public to stay accountable, build confidence, and maybe inspire 
 
 ---
 
+## ✅ Day 3 – Vectors in STL (C++)
+
+**Topics Covered:**
+- 🧠 Understanding `vector` as a dynamic array  
+- 🔁 Using `push_back()`, `pop_back()`, `insert()`, and `erase()`  
+- 📏 Playing with `size()`, `capacity()`, `resize()`  
+- 🧭 Iterating with for-loops and iterators  
+- 💣 Handling memory efficiency and element positioning  
+
+💬 *Vectors are like arrays—but with superpowers.*  
+No more static limits. Just clean, flexible, resizable magic 💫
+
+---
+
 ## ✅ Day 2 – Logical Thinking & Pattern Building
 
 **Topics Covered:**
