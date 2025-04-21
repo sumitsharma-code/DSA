@@ -1,4 +1,4 @@
-# 🧠 Ravneet's Learning in Public Journey
+# 🧠 Sumit's Learning in Public Journey
 
 Welcome to my daily log of growth, bugs, breakthroughs, and brain-boosting chaos.  
 I'm learning in public to stay accountable, build confidence, and maybe inspire a few along the way. 🚀
