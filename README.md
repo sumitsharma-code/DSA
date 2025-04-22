@@ -3,6 +3,19 @@
 Welcome to my daily log of growth, bugs, breakthroughs, and brain-boosting chaos.  
 I'm learning in public to stay accountable, build confidence, and maybe inspire a few along the way. 🚀
 
+## ✅ Day 4 – STL Containers Deep Dive (C++)
+
+**Topics Covered:**
+- 🪄 `list` – Doubly linked list magic  
+- 🧱 `deque` – Double-ended queue with flex on both sides  
+- 🥞 `stack` – Last In, First Out drama  
+- 🧾 `queue` – First In, First Out logic  
+- 🔥 `priority_queue` – Because sometimes order *does* matter  
+- 🧺 `set` – Unique elements only, no duplicates allowed 🎫  
+
+💬 *STL containers are like Pokémon — each one has its special power. And today, I caught 'em all.*  
+Mastering these will supercharge my problem-solving and code efficiency ⚡
+
 ---
 
 ## ✅ Day 3 – Vectors in STL (C++)
