@@ -3,6 +3,19 @@
 Welcome to my daily log of growth, bugs, breakthroughs, and brain-boosting chaos.  
 I'm learning in public to stay accountable, build confidence, and maybe inspire a few along the way. 🚀
 
+## ✅ Day 5 – Multiset & Unordered Set (C++ STL)
+
+**Topics Covered:**
+- 🎯 `multiset` – Allows duplicates, keeps everything sorted  
+- ⚡ `unordered_set` – Hash-based, no order, blazing fast lookups  
+- 🧠 Use-cases for managing duplicates and optimizing search time  
+- 🔄 Practiced insertions, deletions, `count()`, and iterating through elements  
+
+💬 *Today was about containers that either love duplicates or don’t care about order.*  
+Sometimes, performance > perfection.
+
+---
+
 ## ✅ Day 4 – STL Containers Deep Dive (C++)
 
 **Topics Covered:**
