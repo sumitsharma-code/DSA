@@ -3,6 +3,19 @@
 Welcome to my daily log of growth, bugs, breakthroughs, and brain-boosting chaos.  
 I'm learning in public to stay accountable, build confidence, and maybe inspire a few along the way. 🚀
 
+## ✅ Day 8 – Diving Deeper into Recursion (C++)
+
+**Topics Covered:**
+- 🔸 **Parameterized Recursion** – Passing values through the recursive stack  
+- 🔸 **Functional Recursion** – Returning computed values from each call  
+- 🔁 Solved a **multiple recursive call** problem (felt like a brain workout!)  
+
+💬 *Recursion got deeper today — and more interesting.*  
+Learning when to pass, when to return, and how the stack unwinds made a huge difference.  
+One function, many layers — one logic, multiple paths. 🧠✨
+
+---
+
 ## ✅ Day 7 – Maths Meets Recursion (C++)
 
 **Topics Covered:**
