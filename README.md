@@ -3,6 +3,18 @@
 Welcome to my daily log of growth, bugs, breakthroughs, and brain-boosting chaos.  
 I'm learning in public to stay accountable, build confidence, and maybe inspire a few along the way. 🚀
 
+## ✅ Day 6 – Revision Day: Solidifying the Foundation
+
+**Topics Reviewed:**
+- 🔄 STL Containers: `vector`, `list`, `deque`, `stack`, `queue`, `set`, `multiset`, `unordered_set`  
+- 🧠 Basic C++ concepts: functions, loops, conditionals
+
+💬 *Today was about sharpening what I already knew.*  
+Revisiting old problems helped me catch gaps and build stronger intuition.  
+Consistency > speed — and revision keeps the mind sharp. ✍️
+
+---
+
 ## ✅ Day 5 – Multiset & Unordered Set (C++ STL)
 
 **Topics Covered:**
