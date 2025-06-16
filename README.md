@@ -3,6 +3,23 @@
 Welcome to my daily log of growth, bugs, breakthroughs, and brain-boosting chaos.  
 I'm learning in public to stay accountable, build confidence, and maybe inspire a few along the way. 🚀
 
+## ✅ Day 7 – Maths Meets Recursion (C++)
+
+**Topics Covered:**
+- 🔢 **Basic Maths Problems**:
+  - Digit count, number reversal, palindrome check  
+  - GCD calculation, prime number verification  
+
+- 🔁 **Intro to Recursion**:
+  - Print your name N times using recursion  
+  - Number printing patterns: 1 to N, N to 1  
+  - Understood base cases and recursive flow through dry runs  
+
+💬 *Today was a mix of logic and repetition.*  
+Math problems laid the groundwork, and recursion started to train my brain to “think in calls” instead of loops. 🔁📞
+
+---
+
 ## ✅ Day 6 – Revision Day: Solidifying the Foundation
 
 **Topics Reviewed:**
