@@ -3,6 +3,19 @@
 Welcome to my daily log of growth, bugs, breakthroughs, and brain-boosting chaos.  
 I'm learning in public to stay accountable, build confidence, and maybe inspire a few along the way. 🚀
 
+## ✅ Day 9 – Hashing It Out (C++)
+
+**Topics Covered:**
+- 🔢 **Number Hashing** using arrays for constant-time lookups  
+- 🔡 **Character Hashing**: lowercase, uppercase, and full ASCII maps  
+- 🧠 Solved problems involving frequency counting and fast access  
+- 💡 Learned how hashing optimizes time complexity in repeated queries
+
+💬 *Hashing is like having an answer key before the exam.*  
+It makes lookups lightning fast ⚡ and saves time on brute force.
+
+---
+
 ## ✅ Day 8 – Diving Deeper into Recursion (C++)
 
 **Topics Covered:**
