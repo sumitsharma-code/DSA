@@ -3,6 +3,20 @@
 Welcome to my daily log of growth, bugs, breakthroughs, and brain-boosting chaos.  
 I'm learning in public to stay accountable, build confidence, and maybe inspire a few along the way. 🚀
 
+## ✅ Day 11 – Sorting Begins: Selection Sort (C++)
+
+**Topics Covered:**
+
+- 🔀 Started learning **Sorting Algorithms**
+- ✅ Implemented **Selection Sort** from scratch
+- 📉 Understood how it selects the minimum and swaps step by step
+- ⏱️ Time Complexity: O(n²), ✅ space-efficient (in-place)
+
+💬 _Sorting is where logic meets optimization._  
+Selection sort may be basic, but it lays the foundation for deeper techniques ahead.
+
+---
+
 ## ✅ Day 10 – Hashing with Maps (C++)
 
 **Topics Covered:**
