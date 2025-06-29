@@ -3,6 +3,20 @@
 Welcome to my daily log of growth, bugs, breakthroughs, and brain-boosting chaos.  
 I'm learning in public to stay accountable, build confidence, and maybe inspire a few along the way. 🚀
 
+## ✅ Day 12 – Merge Sort Using Recursion (C++)
+
+**Topics Covered:**
+
+- 🔁 Implemented **Merge Sort** using recursion
+- 🧩 Understood divide-and-conquer strategy
+- 🧠 Split the array, sorted subarrays, and merged them back
+- ⏱️ Time Complexity: O(n log n), space: O(n)
+
+💬 _Merge Sort is where recursion meets order._  
+Breaking things apart and putting them back together — clean, efficient, and powerful.
+
+---
+
 ## ✅ Day 11 – Sorting Begins: Selection Sort (C++)
 
 **Topics Covered:**
