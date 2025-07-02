@@ -3,6 +3,21 @@
 Welcome to my daily log of growth, bugs, breakthroughs, and brain-boosting chaos.  
 I'm learning in public to stay accountable, build confidence, and maybe inspire a few along the way. 🚀
 
+
+## ✅ Day 13 – Quick Sort in Action (C++)
+
+**Topics Covered:**
+
+- ⚔️ Implemented **Quick Sort** using recursion and partitioning
+- 🧠 Understood pivot-based sorting and in-place swaps
+- 🔄 Explored both Lomuto and Hoare partition strategies
+- ⏱️ Time Complexity: O(n log n) average, O(n²) worst-case
+
+💬 _Quick Sort is like the ninja of sorting — fast, recursive, and efficient in place._  
+Grasping the partition logic was key to mastering this divide-and-conquer beast.
+
+---
+
 ## ✅ Day 12 – Merge Sort Using Recursion (C++)
 
 **Topics Covered:**
